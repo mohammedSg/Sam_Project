@@ -1,0 +1,8 @@
+sam:
+    resource: "@SamBundle/Controller/"
+    type:     annotation
+    prefix:   /sam
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
